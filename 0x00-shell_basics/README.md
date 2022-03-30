@@ -1,1 +1,1 @@
-Shell basic readme
+1 Shell basics task
